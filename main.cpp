@@ -1,3 +1,4 @@
+ newbr
 #include <conio.h>
 
 int main() {
@@ -7,3 +8,6 @@ if () {
 
 }
 
+
+#include <conio.h>
+#include <string.h> main
